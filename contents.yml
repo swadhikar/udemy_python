@@ -1,0 +1,112 @@
+Beginner:
+  Environment setup:
+    Windows:
+      Install Python3.8
+      Install Pycharm
+
+    # Linux (Ubuntu):
+    # Install Python3.8
+    # Install Pycharm
+
+  Python features:
+    - Easy
+    - Free and Open Source
+    - Portable
+    - Object Oriented
+    - High Level
+    - Large Standard Library
+    - Dynamically Typed
+    - Web and GUI programming
+
+  Dynamic typing: # done
+    - Static typing
+    - Dynamic typing
+    - Pros and Cons
+
+  Mutability:
+    - Mutable vs Immutable
+    # https://knowgenetics.org/dna-mutations-2/
+
+  Data-types: # done
+    - numbers
+    - string
+    - list
+    - tuple
+    - dict
+    - set
+    - boolean   # todo
+
+  String formatting:
+    - text 1
+    - text 2
+
+  Decision Making:
+    - if
+    - if-else
+    - nested if
+
+  Command line interpreter:
+    - text 1
+
+  Loops:
+    - for
+    - for-else
+    - nested-for
+    - while
+    - while-else
+
+  Keywords:
+    - assert
+    - break
+    - pass
+    - continue
+
+  Functions:
+    - text 1
+
+  Local and Global variables:
+    - text 2
+
+  Built-in functions:
+    - range
+    - zip
+    - map
+    - enumerate
+    - enum
+    - eval
+
+Intermediate:
+  Modules:
+  The "os" module:
+  The "sys" module:
+  Slicing techniques:
+  File operations:
+    - Copy files
+    - rename files
+    - zipping files
+  File handling:
+    - read
+    - write
+    - append
+  Data structures:
+    - Counter
+    - defaultdict
+    - OrderedDict
+    - namedtuple
+  datetime:
+  Shallow copy and Deep copy:
+
+Expert:
+  Classes and Objects:
+  Inheritance:
+  Operator overloading:
+  repr vs str:
+  Python Generators:
+  Python Iterators:
+  Generators vs Iterators:
+  Exception handling:
+  XML Processing:
+  Multithreading:
+  Multiprocessing:
+  Sub process:
+  Regular expressions:
